@@ -23,6 +23,10 @@ The project requires the following Python packages:
 
 These dependencies will be installed when you run `pip install -r src/requirements.txt`
 
+### GitHub Copilot Configuration
+
+This repository works with GitHub Copilot and supports MCP (Model Context Protocol) servers for enhanced AI assistance. For information on configuring Personal Access Tokens for advanced authentication, see the [Personal Access Token Setup Guide](personal-access-token-setup.md).
+
 ## Debugging
 
 ### Running the website locally
